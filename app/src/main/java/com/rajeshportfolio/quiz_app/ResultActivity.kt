@@ -1,12 +1,13 @@
 package com.rajeshportfolio.quiz_app
 
 import android.content.Intent
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import androidx.core.view.WindowInsetsCompat
-import androidx.core.view.WindowInsetsControllerCompat
+import nl.dionsegijn.konfetti.KonfettiView
+import nl.dionsegijn.konfetti.models.Shape
 
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,6 +26,19 @@ class ResultActivity : AppCompatActivity() {
         val correctAnswers = intent.getIntExtra(Constants.CORRECT_ANSWERS, 0)
 
         tvScore.text = "Your Score is $correctAnswers out of $totalQuestions."
+
+        val viewKonfettiData : KonfettiView = findViewById(R.id.viewKonfetti)
+
+        viewKonfettiData.build()
+            .addColors(Color.YELLOW, Color.RED, Color.BLUE)
+            .setDirection(0.0, 359.0)
+            .setSpeed(1f, 5f)
+            .setFadeOutEnabled(true)
+            .setTimeToLive(2000L)
+            .addShapes(Shape.RECT, Shape.CIRCLE)
+            .addSizes(nl.dionsegijn.konfetti.models.Size(12))
+            .setPosition(-50f, viewKonfettiData.width + 50f, -50f, -50f)
+            .streamFor(300, 5000L)
 
         btnFinish.setOnClickListener {
             //
