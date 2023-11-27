@@ -28,6 +28,23 @@ Embark on a thrilling journey with our playful app designed to test your cricket
 1. **Download the App** 📲: Click [here](#) to download the app and let the games begin!
 2. **Challenge Yourself**: Test your cricket knowledge and enjoy the thrill of recognizing players by their extraordinary feats.
 
+# For Developers
+
+## Prerequisites
+
+```bash
+1. Android Studio
+```
+
+## Setup
+
+```bash
+1. Clone the repository
+2. Open the folder in android studio
+3. wait for the build to complete
+4. Run the app
+```
+
 # Application Demo
 
 <p>Click on the below image to watch the youtube demo of the application</p>
