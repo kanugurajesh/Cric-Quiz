@@ -22,8 +22,6 @@ Embark on a thrilling journey with our playful app designed to test your cricket
 - Kotlin
 - XML
 - Android Studio
-- Tensorflow
-- Tensorflow-lite
 
 ## Authors
 
