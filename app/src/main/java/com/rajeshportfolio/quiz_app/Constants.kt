@@ -64,7 +64,7 @@ object Constants {
             6, "Third highest wicket taker of all time(619)",
             R.drawable.anilkhumble,
             "Jasprit Bumrah", "bhuvaneswar kumar",
-            "Mohammed Shami", "Anil kumble", 1
+            "Mohammed Shami", "Anil kumble", 4
         )
 
         questionsList.add(que6)
@@ -74,7 +74,7 @@ object Constants {
             7, "6 sixes in an over",
             R.drawable.yuvrajsingh,
             "Sachin tendulkar", "M.S Dhoni",
-            "Rohit Sharma", "Yuvraj singh", 3
+            "Rohit Sharma", "Yuvraj singh", 4
         )
 
         questionsList.add(que7)
@@ -93,17 +93,17 @@ object Constants {
         val que9 = Question(
             9, "Highest number os sixes in all formats",
             R.drawable.rohisharma,
-            "KL Rahul", "Ravindra Jadeja",
-            "M.S Dhoni", "Virat Kohli", 4
+            "KL Rahul", "Rohit Sharma",
+            "M.S Dhoni", "Virat Kohli", 2
         )
 
         questionsList.add(que9)
 
         // 10
         val que10 = Question(
-            10, "known for his unconventional bowling action",
-            R.drawable.jaspritbumrah,
-            "Bhuvaneshwar kumar", "Ashwin ravichandran",
+            10, "The highest wicket-taker in Test cricket with 434 wickets",
+            R.drawable.kapildev,
+            "Bhuvaneshwar kumar", "kapil dev",
             "Jaspreet bumrah", "Harbajan singh", 1
         )
 
