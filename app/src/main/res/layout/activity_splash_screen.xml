@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/ic_bg"
+    android:background="@drawable/indianbackground"
     tools:context=".SplashScreen">
 
 
@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="260dp"
         android:textSize="25dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textStyle="bold"
         android:text="Welcome to Cric Quiz"
         app:layout_constraintBottom_toBottomOf="parent"

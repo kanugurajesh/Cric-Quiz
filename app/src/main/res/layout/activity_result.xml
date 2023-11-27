@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/ic_bg"
+    android:background="@drawable/indianbackground"
     android:orientation="vertical"
     android:gravity="center_horizontal"
     android:padding="20dp"
@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Hey, Congratulations!"
-        android:textColor="@android:color/white"
+        android:textColor="@color/black"
         android:textSize="25sp"
         android:textStyle="bold"/>
 
@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:textColor="@android:color/white"
+        android:textColor="@color/black"
         android:textSize="22sp"
         android:textStyle="bold"
         tools:text="Username" />
@@ -52,8 +52,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:textColor="@android:color/secondary_text_dark"
         android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
         tools:text="Your Score is 9 out of 10" />
 
     <Button
