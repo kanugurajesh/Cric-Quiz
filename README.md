@@ -11,3 +11,8 @@ Embark on a thrilling journey with our playful app designed to test your cricket
 # Application ScreenShot
 
 <img src="https://github.com/kanugurajesh/Cric-Quiz/assets/120458029/7f939e0f-d0e8-43ca-8040-eb1e818d6586" alt="icon" width=300 height=500>
+
+## Authors
+
+- [@kanugurajesh](https://www.github.com/kanugurajesh)
+- [@rajesh604](https://www.github.com/rajesh604)
