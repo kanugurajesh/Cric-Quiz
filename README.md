@@ -2,6 +2,32 @@
 
 Embark on a thrilling journey with our playful app designed to test your cricket knowledge in the most exciting way! 🚀 Challenge yourself by guessing the names of Indian cricket players through their unique achievements. 🏆 Immerse yourself in the world of cricket, showcase your expertise, and have a blast with this interactive quiz. 🤩 Unleash the cricket enthusiast in you and enjoy the thrill of recognizing players by their extraordinary feats. 🌟 Download the app now and let the games begin! 📲🎉
 
+## Features:
+
+### 1. Thrilling Quiz Experience 🤩
+- Immerse yourself in a thrilling quiz experience that challenges your cricket expertise.
+- Engage in a playful and interactive game designed to keep you on the edge of your seat.
+
+### 2. Guess Indian Cricket Players 🏏
+- Challenge yourself by guessing the names of Indian cricket players through their unique achievements.
+- Test your knowledge as you match players with their extraordinary feats on the cricket field.
+
+### 3. Showcase Your Expertise 🌟
+- Showcase your cricket expertise and knowledge of players' accomplishments.
+- Compete with friends or fellow cricket enthusiasts to see who reigns supreme in cricket trivia.
+
+### 4. Interactive Quiz Format 🎉
+- Enjoy an app that makes learning about cricket players' achievements fun and interactive.
+- Experience a user-friendly interface that adds to the excitement of recognizing players through their extraordinary feats.
+
+### 5. Unleash the Cricket Enthusiast in You 🏆
+- Unleash your inner cricket enthusiast and dive into the world of cricket trivia.
+- Discover interesting facts and details about Indian cricket players while having a blast with the quiz.
+
+## Get Started
+1. **Download the App** 📲: Click [here](#) to download the app and let the games begin!
+2. **Challenge Yourself**: Test your cricket knowledge and enjoy the thrill of recognizing players by their extraordinary feats.
+
 # Application Demo
 
 <p>Click on the below image to watch the youtube demo of the application</p>
