@@ -29,9 +29,9 @@ Embark on a thrilling journey with our playful app designed to test your cricket
 
 Contributions are always welcome!
 
-See [`contributing.md`](https://github.com/rajesh604/Calculator/blob/master/contributing.md) for ways to get started.
+See [`contributing.md`](https://github.com/kanugurajesh/Cric-Quiz/blob/main/contributing.md) for ways to get started.
 
-Please adhere to this project's [`code of conduct`](https://github.com/rajesh604/Calculator/blob/master/code_of_conduct.md).
+Please adhere to this project's [`code of conduct`](https://github.com/kanugurajesh/Cric-Quiz/blob/main/code_of_conduct.md).
 
 ## Support
 
