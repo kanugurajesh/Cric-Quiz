@@ -16,14 +16,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:text="Result"
-        android:textColor="@android:color/white"
+        android:textColor="@color/black"
         android:textSize="25sp"
         android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/iv_trophy"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="281dp"
+        android:layout_height="278dp"
         android:contentDescription="image"
         android:src="@drawable/ic_trophy" />
 
@@ -61,10 +61,11 @@
         android:id="@+id/btn_finish"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:background="@android:color/white"
         android:text="FINISH"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
+
 </LinearLayout>

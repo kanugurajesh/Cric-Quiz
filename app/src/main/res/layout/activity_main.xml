@@ -17,7 +17,7 @@
         android:layout_marginBottom="30dp"
         android:gravity="center"
         android:text="Cric Quiz"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="25sp"
         android:textStyle="bold" />
 
