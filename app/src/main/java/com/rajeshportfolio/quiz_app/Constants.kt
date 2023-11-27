@@ -104,7 +104,7 @@ object Constants {
             10, "The highest wicket-taker in Test cricket with 434 wickets",
             R.drawable.kapildev,
             "Bhuvaneshwar kumar", "kapil dev",
-            "Jaspreet bumrah", "Harbajan singh", 1
+            "Jaspreet bumrah", "Harbajan singh", 2
         )
 
         questionsList.add(que10)

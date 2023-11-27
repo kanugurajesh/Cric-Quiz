@@ -34,7 +34,7 @@
             android:layout_height="150dp"
             android:layout_marginTop="16dp"
             android:contentDescription="image"
-            tools:src="@drawable/ic_flag_of_germany" />
+            />
 
         <LinearLayout
             android:id="@+id/ll_progress_details"
