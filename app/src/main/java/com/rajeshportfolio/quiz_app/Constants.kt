@@ -91,7 +91,7 @@ object Constants {
 
         // 9
         val que9 = Question(
-            9, "Highest number os sixes in all formats",
+            9, "Highest number of sixes in all formats",
             R.drawable.rohisharma,
             "KL Rahul", "Rohit Sharma",
             "M.S Dhoni", "Virat Kohli", 2
