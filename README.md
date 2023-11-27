@@ -7,3 +7,7 @@ Embark on a thrilling journey with our playful app designed to test your cricket
 <p>Click on the below image to watch the youtube demo of the application</p>
 
 <a href="https://youtu.be/vebVT36ik60?feature=shared"><img src="https://github.com/kanugurajesh/Cric-Quiz/assets/120458029/8529fe6e-06d5-4e08-944a-218e11cce2de" alt="text" width=300 height=300></a>
+
+# Application ScreenShot
+
+<img src="https://github.com/kanugurajesh/Cric-Quiz/assets/120458029/7f939e0f-d0e8-43ca-8040-eb1e818d6586" alt="icon" width=300 height=500>
