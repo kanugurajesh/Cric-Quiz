@@ -69,8 +69,10 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
             mQuestionsList!![mCurrentPosition - 1] // Getting the question from the list with the help of current position.
         defaultOptionsView()
         if (mCurrentPosition == mQuestionsList!!.size) {
+            ivImage?.alpha=0.0f
             buttonSubmit?.text = "FINISH"
         } else {
+            ivImage?.alpha=0.0f
             buttonSubmit?.text = "SUBMIT"
         }
         progressBar?.progress =
@@ -184,8 +186,11 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
                     answerView(question.correctAnswer, R.drawable.correct_option_border_bg)
 
                     if (mCurrentPosition == mQuestionsList!!.size) {
+                        ivImage?.alpha=1f
                         buttonSubmit?.text = "FINISH"
                     } else {
+//                        set alpha ov ivimage
+                        ivImage?.alpha=1f
                         buttonSubmit?.text = "GO TO NEXT QUESTION"
                     }
 

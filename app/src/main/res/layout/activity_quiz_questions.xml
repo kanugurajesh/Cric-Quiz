@@ -31,6 +31,7 @@
         <ImageView
             android:id="@+id/iv_image"
             android:layout_width="150dp"
+            android:alpha="0.0"
             android:layout_height="150dp"
             android:layout_marginTop="16dp"
             android:contentDescription="image"
